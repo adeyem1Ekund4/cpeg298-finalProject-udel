@@ -3,9 +3,9 @@
 # Schematic
 
 # THS PCB View
-## Front
+### Front
 
-## Back
+### Back
 
 # Arduino Code
 
