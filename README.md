@@ -1,5 +1,5 @@
 # Internet of Things Device for Humidity Sensor: Iot THS
-
+The primary goal of the project is to read temperature and humidity data from the DHT20 sensor, process this data, and then send it to a server or cloud service (implied by the Adafruit IO setup) via the ESP8266.
 # Schematic
 ![Screenshot 2024-04-06 230513](https://github.com/adeyem1Ekund4/cpeg298-finalProject-udel/assets/166171920/9c108faf-6b6c-4b0c-bf3a-904a47088827)
 
