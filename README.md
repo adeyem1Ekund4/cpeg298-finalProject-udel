@@ -29,6 +29,7 @@ The sensor data along with the status of the sensor reading is printed to the se
 The espData() function is used to send commands to the ESP8266 module and receive responses. It waits for a response within a specified timeout period and returns the response as a string.
 
 # Adafruit Hub
+![Screenshot 2024-04-06 230513](https://github.com/adeyem1Ekund4/cpeg298-finalProject-udel/assets/166171920/afb096c1-8512-4749-ab37-b24e2b6ce7d1)
 
 # Future Changes
 For the program, to improve readability and maintainability, break down the code into multiple functions, such as moving LED control logic into a separate function. Avoid using delays in the loop, as they can block other operations and affect system responsiveness. Improve error handling, especially for Wi-Fi and Adafruit IO connections, and provide alternative actions or retries in case of failure. Avoid hardcoding sensitive information and consider external methods for secure input. Restructure the espData function to be more efficient and reliable, and implement a feedback mechanism from the server/cloud to the Arduino for more interactive control. For battery-operated projects, use power-saving techniques to extend battery life. Add checks to ensure data read from the DHT20 sensor is within reasonable bounds before sending it to avoid transmitting erroneous data.
