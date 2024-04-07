@@ -3,7 +3,7 @@
 # Schematic
 
 # THS PCB View
-Front
+#Front
 
 Back
 
