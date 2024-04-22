@@ -30,6 +30,7 @@ The sensor data along with the status of the sensor reading is printed to the se
 The espData() function is used to send commands to the ESP8266 module and receive responses. It waits for a response within a specified timeout period and returns the response as a string.
 
 # Adafruit Hub
+![image](https://github.com/adeyem1Ekund4/cpeg298-finalProject-udel/assets/166171920/749a2bc8-eb3a-4a80-bd80-686c27eda9df)
 
 
 # Future Changes
